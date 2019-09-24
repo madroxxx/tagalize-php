@@ -1,5 +1,5 @@
 <?php
-namespace madroxxx\TagalizePhp
+namespace TagalizePhp;
 
 class Index
 {

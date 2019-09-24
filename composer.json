@@ -9,7 +9,9 @@
     ],
     "minimum-stability": "dev",
     "autoload": {
-	    "psr-4": {"madroxxx\\TagalizePhp\\": "src/"}
+	    "psr-0": {
+		    "TagalizePhp": "src/"
+	    }
     },
     "require": {}
 }

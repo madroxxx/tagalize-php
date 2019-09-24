@@ -1,0 +1,15 @@
+{
+    "name": "madroxxx/tagalize-php",
+    "description": "This tagalizes words but in PHP",
+    "authors": [
+        {
+            "name": "madroxxx",
+            "email": "mad.roxxx@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+	    "psr-4": {"madroxxx\\TagalizePhp\\": "src/"}
+    },
+    "require": {}
+}

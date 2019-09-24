@@ -9,8 +9,8 @@
     ],
     "minimum-stability": "dev",
     "autoload": {
-	    "psr-0": {
-		    "TagalizePhp": "src/"
+	    "psr-4": {
+		    "HelloWorld": "src/"
 	    }
     },
     "require": {}

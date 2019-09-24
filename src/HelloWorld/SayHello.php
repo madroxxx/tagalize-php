@@ -6,4 +6,8 @@ class SayHello
     {
 	    return 'Hello World, Composer!';
     }
+    public function getTagalized($string = "Kamusta")
+    {
+	return $string . '-EY';
+    }
 }
